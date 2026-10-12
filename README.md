@@ -1,4 +1,4 @@
-Hi, I'm Charles. I work on infrastructure and operations.
+Hi, I'm Charles. I work as an SRE and DevOps engineer.
 
 In my spare time I maintain two small open projects:
 
