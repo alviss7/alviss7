@@ -1,4 +1,4 @@
-Hi, I'm Charles. I work on infrastructure: Kubernetes, PostgreSQL, CI pipelines and the plumbing in between.
+Hi, I'm Charles. I work on infrastructure and operations.
 
 In my spare time I maintain two small open projects:
 
